@@ -1,0 +1,5 @@
+Key Insights:
+- Movie lead with ~69.6% of total titles.
+- Top content countries: United States, India, United Kingdom.
+- Catalog peak additions around 2019.0; latest year is ~75% of peak.
+- Avg movie duration ≈ 100 minutes.
